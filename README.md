@@ -14,4 +14,4 @@ Ce projet consiste à créer et afficher un cube en 3D en utilisant des technolo
 - JavaScript : Pour la logique et les interactions.
 ## Vidéo de démonstration
 
-[![Vidéo de démonstration](/Vidéo%20sans%20titre%20‐%20Réalisée%20avec%20Clipchamp.mp4)
+![Vidéo de démonstration](/Vidéo%20sans%20titre%20‐%20Réalisée%20avec%20Clipchamp.mp4)
